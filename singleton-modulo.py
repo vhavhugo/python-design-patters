@@ -1,0 +1,1 @@
+# Obs: Todos os módulos são Singletons por padrão.
